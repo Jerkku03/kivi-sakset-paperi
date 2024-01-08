@@ -58,7 +58,6 @@ paperi.addEventListener('click', () => {
             const käyttäjä = 'paperi';
             vertailu(käyttäjä, tietokoneValinta);
     });
-
 });
 
 
